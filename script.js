@@ -1,11 +1,5 @@
 
 const contents = [
-    { title: "Blaugurt", combinations: ["1. ZK irgendwas KYUZ guyai-isui", "2. ZK irgendwatt Zyui-ak"], currentCombination: 0 },
-    { title: "Grün", combinations: ["1. ZK irgeni", "2. ZK irgendwatt Zyui-ak"], currentCombination: 0 },
-    { title: "Rot", combinations: ["1. ZK irgenidasdasd", "2. ZK irgendwatt Zyui-ak"], currentCombination: 0 },
-]
-
-const contents = [
     {
         "title": "5. Kyu (Blau I)",
         "combinations": [
